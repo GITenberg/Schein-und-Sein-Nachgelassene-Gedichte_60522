@@ -1,0 +1,28 @@
+_repo: Schein-und-Sein-Nachgelassene-Gedichte_60522
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Busch, Wilhelm
+    alias: Bush, W. (Wilhelm)
+    birthdate: 1832
+    deathdate: 1908
+    gutenberg_agent_id: '4959'
+    url: http://www.gutenberg.org/2009/agents/4959
+    wikipedia:
+    - http://en.wikipedia.org/wiki/Wilhelm_Busch
+    - http://de.wikipedia.org/wiki/Wilhelm_Busch
+description: ''
+gutenberg_issued: '2019-10-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '60522'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PT'
+- !lcsh 'German poetry'
+- GITenberg
+title: 'Schein und Sein: Nachgelassene Gedichte'
+url: http://www.gutenberg.org/ebooks/60522
